@@ -1,0 +1,13 @@
+@startuml
+title
+Model
+endtitle
+class com.docusign.demo.house.House {
+   + String owner
+   + String mailingAddress
+   + DateTime purchaseDate
+   + String constructionYear
+   + Integer monthlyMortgage
+}
+com.docusign.demo.house.House --|> concerto.Concept
+@enduml

@@ -1,0 +1,9 @@
+namespace com.docusign.demo.house
+
+concept House {
+    o String owner
+    o String mailingAddress
+    o DateTime purchaseDate
+    o String constructionYear
+    o Integer monthlyMortgage
+}
