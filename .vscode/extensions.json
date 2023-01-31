@@ -5,7 +5,7 @@
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": [
     "accordproject.concerto-vscode-extension",
-    "jebbs.plantuml"
+    "bierner.markdown-mermaid"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []

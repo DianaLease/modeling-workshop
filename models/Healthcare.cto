@@ -1,4 +1,4 @@
-namespace com.docusign.healthcare
+namespace com.docusign.healthcare@0.1.0
 
 @PrepareUnique()
 @PrepareCustomIdentifiers("firstName", "lastName", "dateOfBirth")

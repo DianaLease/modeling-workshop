@@ -1,4 +1,4 @@
-namespace com.docusign.demo.house
+namespace com.docusign.demo.house@0.1.0
 
 concept House {
     o String owner
